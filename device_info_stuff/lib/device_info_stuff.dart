@@ -1,0 +1,3 @@
+String collectDeviceInfo() {
+  return '';
+}
